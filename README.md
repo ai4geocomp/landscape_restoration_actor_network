@@ -1,4 +1,4 @@
-# Code repository for studying actor-network of landscape restoration discourses on Twitter
+# Code repository for Actor network of digital communications on restoration on Twitter
 
 List of code scpripts (Goolge CoLab Jypter Notebook)\
 [code]:
