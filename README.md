@@ -1,5 +1,4 @@
-# Actor network of landscape restoration discourses on Twitter
-The actor networks from discussions on landscape restoration on Twitter
+# Code repository for studying actor-network of landscape restoration discourses on Twitter
 List of code scpripts (Goolge CoLab Jypter Notebook)
 [code]:
 network_actor_summary.ipynb: summarize commomn Twitter users in the social networks
