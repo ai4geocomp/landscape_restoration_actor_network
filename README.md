@@ -6,6 +6,7 @@ List of code scpripts (Goolge CoLab Jypter Notebook)\
 > 2. network_spatial.ipynb: construction of the retweeting networks with user geographic locations (i.e., country)
 > 3. analysis.ipynb: statistic summary of the landscape restoration related tweets
 > 4. tweets_country_assignment.ipynb: assign country information to each Twitter user
+> 5. get_empty_countries.ipynb: using geoapiExercises to find country information and filter out Twitter actors without a country assigned.
 
 List of figures produced from this project
 [figures]:
