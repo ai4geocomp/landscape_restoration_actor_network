@@ -1,6 +1,6 @@
 # Code repository for Actor network of digital communications on restoration on Twitter
 
-List of code scpripts (Goolge CoLab Jypter Notebook)\
+List of code scpripts (Goolge CoLab Jupyter Notebook)\
 [code]:
 > 1. network_actor_summary.ipynb: summarize common Twitter users in the social networks
 > 2. network_spatial.ipynb: construction of the retweeting networks with user geographic locations (i.e., country)
