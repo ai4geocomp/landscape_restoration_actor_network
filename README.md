@@ -8,7 +8,7 @@ List of code scpripts (Goolge CoLab Jupyter Notebook)\
 > 4. tweets_country_assignment.ipynb: assign country information to each Twitter user
 > 5. get_empty_countries.ipynb: using geoapiExercises to find country information and filter out Twitter actors without a country assigned.
 
-List of figures produced from this project
+List of figures produced from this project\
 [figures]:
 > Figure 1: to be updated
 > Figure 2: Temporal trends in Twitter communications mentioning restoration, distinguished across the restoration terms considered
