@@ -1,4 +1,4 @@
-# Code repository for Digital Geographies and Actors Networks of Restoration
+# Code repository: Digital Geographies and Actors Networks of Restoration
 
 List of code scripts (Google CoLab Jupyter Notebook)\
 [code]:
